@@ -17,30 +17,37 @@ public class Airport {
     }
 
     public void setAirportAddress(String airportAddress) {
+
         this.airportAddress = airportAddress;
     }
 
     public void setAirportStaffNumber(double airportStaffNumber) {
+
         this.airportStaffNumber = airportStaffNumber;
     }
 
     public void setAirportID(double airportID) {
+
         this.airportID = airportID;
     }
 
     public String getAirportName() {
+
         return airportName;
     }
 
     public String getAirportAddress() {
+
         return airportAddress;
     }
 
     public double getAirportStaffNumber() {
+
         return airportStaffNumber;
     }
 
     public double getAirportID() {
+
         return airportID;
     }
 }
