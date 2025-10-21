@@ -9,21 +9,27 @@ public class Church {
     }
 
     public void setChurchName(String churchName) {
+
         this.churchName = churchName;
     }
     public void setChurchAddress(String churchAddress) {
+
         this.churchAddress = churchAddress;
     }
     public void setChurchID(double churchID) {
+
         this.churchID = churchID;
     }
     public String getChurchName() {
+
         return churchName;
     }
     public String getChurchAddress() {
+
         return churchAddress;
     }
     public double getChurchID() {
+
         return churchID;
     }
 }

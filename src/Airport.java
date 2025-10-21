@@ -12,6 +12,7 @@ public class Airport {
     }
 
     public void setAirportName(String airportName) {
+
         this.airportName = airportName;
     }
 
