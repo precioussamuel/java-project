@@ -2,8 +2,9 @@ public class Airport {
     private String airportName;
     private String airportAddress;
     private double airportStaffNumber;
-    private  double airportID;
-    public Airport(String airportName, String airportAddress, double airportStaffNumber, double airportID){
+    private double airportID;
+
+    public Airport(String airportName, String airportAddress, double airportStaffNumber, double airportID) {
         this.airportName = airportName;
         this.airportAddress = airportAddress;
         this.airportStaffNumber = airportStaffNumber;
